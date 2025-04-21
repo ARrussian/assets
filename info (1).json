@@ -1,0 +1,9 @@
+{
+    "name": "Euro Coin",
+    "symbol": "EURC",
+    "decimals": 18,
+    "description": "Euro Coin (EURC) is a fully backed euro stablecoin issued by Circle.",
+    "website": "https://www.circle.com/eurc",
+    "explorer": "https://bscscan.com/token/0x6d5364a2009B99C922E2f038D5F6191865640132",
+    "status": "active"
+}
